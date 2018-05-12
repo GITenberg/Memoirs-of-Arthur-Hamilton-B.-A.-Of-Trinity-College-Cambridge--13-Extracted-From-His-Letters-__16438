@@ -1,0 +1,36 @@
+_repo: Memoirs-of-Arthur-Hamilton-B.-A.-Of-Trinity-College-Cambridge--13-Extracted-From-His-Letters-__16438
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Carr, Christopher
+    - Benson, A. C. (Arthur Christopher)
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'College stories'
+- !lcsh 'College students -- Fiction'
+- !lcsh 'Cambridge (England) -- Fiction'
+- !lcsh 'Trinity College (University of Cambridge) -- Fiction'
+title: "Memoirs of Arthur Hamilton, B. A. of Trinity College, Cambridge\r\nExtracted\
+  \ from His Letters and Diaries, with Reminiscences of His Conversation by His Friend\
+  \ Christopher Carr of the Same College"
+url: http://www.gutenberg.org/ebooks/16438
